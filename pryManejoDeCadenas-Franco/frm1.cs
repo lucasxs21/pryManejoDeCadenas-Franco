@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace pryManejoDeCadenas_Franco
 {
-    public partial class Form1 : Form
+    public partial class frm1 : Form
     {
         string textoA;
         string textoB;
-        public Form1()
+        public frm1()
         {
             InitializeComponent();
         }

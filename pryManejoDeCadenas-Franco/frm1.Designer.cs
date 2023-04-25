@@ -1,6 +1,6 @@
 ﻿namespace pryManejoDeCadenas_Franco
 {
-    partial class Form1
+    partial class frm1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
